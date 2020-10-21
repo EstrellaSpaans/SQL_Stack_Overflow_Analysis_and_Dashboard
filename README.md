@@ -1,4 +1,4 @@
-# SQL Stack-Overflow Analysis With BIGQUERY and Dashboard in Data Studio
+# SQL Analysis With BIGQUERY and Dashboard in Data Studio
 This project helped me to apply the basics of SQL and get acquainted with BIGQUERY public data sets.
 
 ## **Business Questions**
