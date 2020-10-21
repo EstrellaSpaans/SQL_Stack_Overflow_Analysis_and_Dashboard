@@ -1,5 +1,6 @@
 # SQL Analysis With BIGQUERY and Dashboard in Data Studio
-This project helped me to apply the basics of SQL and get acquainted with BIGQUERY public data sets.
+This project helped me to apply the basics of SQL and get acquainted with bigger public data sets in BIGQUERY and Data Studio. 
+Data was analyzed on 09/17/2020.
 
 ## **Business Questions**
 
