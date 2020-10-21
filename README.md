@@ -165,7 +165,3 @@ LIMIT
 **Query explanation**
 
 By joining the tables, I could get a more comprehensive overview of the comments. I selected the title of the post_question table, which gives me the actual question that has been asked. Then I decided on the text from the comment table, which provides me with the comment that has been posted. I also selected the score of this table, which is the overall voting score (sum of + and – votes). I only wanted to see the rows that are matching with each other; therefore, I used an inner join connecting them on the post_id within the comments table and id within the posts_questions table. Because we want to know the votes in a specific week, I selected the dates from the comment table (when the comments were posted) with a where clause. I also wanted to make sure there were not empty comments in the query. By setting a limit, only the highest vote comments would be shown.
-
-### 6.  Dashboard
-
-[Stack_Overflow_Dashboard_BIGQUERY.pdf](Project%20SQL%20Stack%20Overflow%20e1f0100c133240848851f281cc8dadd9/Stack_Overflow_Dashboard_BIGQUERY.pdf)
