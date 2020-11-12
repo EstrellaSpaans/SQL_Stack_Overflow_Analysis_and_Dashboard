@@ -3,7 +3,7 @@ This project helped me to apply the basics of SQL and get acquainted with bigger
 
 Data was analyzed on 09/17/2020.
 
-Datas et: https://console.cloud.google.com/bigquery?_ga=2.235996418.22298598.1603233578-1826038417.1594837092&_gac=1.87764330.1600309907.CjwKCAjw74b7BRA_EiwAF8yHFM72pOdybSuzR6CPhsAwKKsN5xsrW3QvEb7DwXqHDvlSAX_zbcRtnBoCTi8QAvD_BwE&project=crested-archive-225711&folder=&organizationId=&p=bigquery-public-data&d=stackoverflow&page=dataset
+Data set: https://console.cloud.google.com/bigquery?_ga=2.235996418.22298598.1603233578-1826038417.1594837092&_gac=1.87764330.1600309907.CjwKCAjw74b7BRA_EiwAF8yHFM72pOdybSuzR6CPhsAwKKsN5xsrW3QvEb7DwXqHDvlSAX_zbcRtnBoCTi8QAvD_BwE&project=crested-archive-225711&folder=&organizationId=&p=bigquery-public-data&d=stackoverflow&page=dataset
 
 ## **Business Questions**
 
